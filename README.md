@@ -26,4 +26,4 @@ I’m a Data Analyst passionate about extracting meaningful insights from data u
 
 ## 📫 Connect With Me
 - Email: sarfarazalam@tutamail.com  
-- Portfolio: [sarfarazalamgit](https://sarfarazalamgit/portfolio)
+- Portfolio: [sarfarazalamgit.github.io](https://sarfarazalamgit.github.io/portfolio/)
