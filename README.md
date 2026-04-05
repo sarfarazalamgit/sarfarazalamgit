@@ -14,7 +14,7 @@ I’m a Data Analyst passionate about extracting meaningful insights from data u
 | Data Analytics  | Programming  | Visualization               | Database |
 | --------------- | ------------ | --------------------------- | -------- |
 | Pandas, NumPy   | Python       | Matplotlib, Seaborn, Plotly | SQL      |
-| Excel, Power BI | Git & GitHub | —                           | MySQL    |
+| Excel, Power BI | Git & GitHub | Tableau                     | MySQL    |
 
 
 ---
