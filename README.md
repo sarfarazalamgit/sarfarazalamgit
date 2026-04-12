@@ -20,7 +20,8 @@ I’m a Data Analyst passionate about extracting meaningful insights from data u
 ---
 
 ## 📂 Projects & Repositories
-- [Supermarket Sales Analysis](https://github.com/yourusername/supermarket-sales-analysis) – Exploratory analysis, insights & visualization 
+- [Supermarket Sales Analysis](https://github.com/yourusername/supermarket-sales-analysis) – Exploratory analysis, insights & visualization
+- [Ecommerce Data Analytics Pipeline](https://github.com/sarfarazalamgit/ecommerce-data-analytics-pipeline) – End-to-end e-commerce data analytics pipeline using Python, PostgreSQL, and Power BI to analyze delivery performance, delay rates, and business insights.
 
 ---
 
