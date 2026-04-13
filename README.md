@@ -11,16 +11,16 @@ I’m a Data Analyst passionate about extracting meaningful insights from data u
 ---
 
 ## 🛠 Skills & Tools
-| Data Analytics  | Programming  | Visualization               | Database |
-| --------------- | ------------ | --------------------------- | -------- |
-| Pandas, NumPy   | Python       | Matplotlib, Seaborn, Plotly | SQL      |
-| Excel, Power BI | Git & GitHub | Tableau                     | MySQL    |
+| Data Analytics  | Programming  | Visualization               | Database  |
+| --------------- | ------------ | --------------------------- | --------  |
+| Pandas, NumPy   | Python       | Matplotlib, Seaborn, Plotly | SQL       |
+| Excel           | Git & GitHub | Power BI, Tableau           | PostgreSQL|
 
 
 ---
 
 ## 📂 Projects & Repositories
-- [Supermarket Sales Analysis](https://github.com/sarfarazalamgit/supermarket-sales-analysis) – Exploratory analysis, insights & visualization
+- [Supermarket Sales Analysis](https://github.com/sarfarazalamgit/supermarket-sales-analysis) – Performed exploratory data analysis on retail sales data to identify key revenue drivers, top products, and regional trends.
 - [Ecommerce Data Analytics Pipeline](https://github.com/sarfarazalamgit/ecommerce-data-analytics-pipeline) – End-to-end e-commerce data analytics pipeline using Python, PostgreSQL, and Power BI to analyze delivery performance, delay rates, and business insights.
 
 ---
