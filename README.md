@@ -1,27 +1,27 @@
 # Hi there 👋, I’m MD SARFARAZ ALAM
 
 ## 🌟 About Me
-I’m a Data Analyst passionate about extracting meaningful insights from data using **Python**, **Pandas**, and **data visualization tools**. I enjoy analyzing complex datasets, discovering trends, and helping businesses make data-driven decisions.
+I’m a Frontend Developer passionate about building responsive and user-friendly web interfaces using **HTML**, **CSS**, **JavaScript**, and modern frameworks. I enjoy crafting intuitive designs, optimizing performance, and creating seamless user experiences.
 
-- 🔭 I’m currently working on **Supermarket Sales Analysis** and other data projects
-- 🌱 I’m continuously learning advanced **Python**, **SQL**, **Machine Learning**, and **Power BI**
-- 💬 Ask me about **data analysis, visualization, or Python projects**
-- ⚡ Fun fact: I love turning raw numbers into clear, actionable stories
+- 🔭 I’m currently working on **Responsive Portfolio Websites** and interactive web components
+- 🌱 I’m continuously learning advanced **JavaScript (ES6+)**, **React**, **Web Accessibility**, and **Responsive Design**
+- 💬 Ask me about **frontend development, UI/UX design, or React projects**
+- ⚡ Fun fact: I love turning static designs into dynamic, interactive web pages
 
 ---
 
 ## 🛠 Skills & Tools
-| Data Analytics  | Programming  | Visualization               | Database  |
-| --------------- | ------------ | --------------------------- | --------  |
-| Pandas, NumPy   | Python       | Matplotlib, Seaborn, Plotly | SQL       |
-| Excel           | Git & GitHub | Power BI, Tableau           | PostgreSQL|
+| Frontend Core | Programming  | Styling & UI          | Tools & Version Control |
+| ------------- | ------------ | --------------------- | ----------------------- |
+| HTML5         | JavaScript   | CSS3                  | Git & GitHub            |
+| React.js      |              |                       | VS Code                 |                        
 
 
 ---
 
 ## 📂 Projects & Repositories
-- [Ecommerce Data Analytics Pipeline](https://github.com/sarfarazalamgit/ecommerce-data-analytics-pipeline) – End-to-end e-commerce data analytics pipeline using Python, PostgreSQL, and Power BI to analyze delivery performance, delay rates, and business insights.
-- [Supermarket Sales Analysis](https://github.com/sarfarazalamgit/supermarket-sales-analysis) – Performed exploratory data analysis on retail sales data to identify key revenue drivers, top products, and regional trends.
+- [Interactive Portfolio Website](https://github.com/sarfarazalamgit/interactive-portfolio) – Built a responsive personal portfolio using React and Tailwind CSS to showcase projects and skills with smooth animations.
+- [Weather App](https://github.com/sarfarazalamgit/weather-app) – Developed a real-time weather application using **HTML**, **CSS**, and **JavaScript** that fetches data from an API to display temperature, humidity, wind speed, and weather conditions for selected cities.
 
 ---
 
