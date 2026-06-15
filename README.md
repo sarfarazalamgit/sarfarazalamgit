@@ -20,7 +20,7 @@ I’m a Frontend Developer passionate about building responsive and user-friendl
 ---
 
 ## 📂 Projects & Repositories
-- [Interactive Portfolio Website](https://github.com/sarfarazalamgit/interactive-portfolio) – Built a responsive personal portfolio using React and Tailwind CSS to showcase projects and skills with smooth animations.
+- [Portfolio Website](https://sarfarazalamgit.github.io/portfolio/) – Built a responsive personal portfolio using HTML, CSS and JavaScript to showcase projects and skills with smooth animations.
 - [Weather App](https://github.com/sarfarazalamgit/weather-app) – Developed a real-time weather application using **HTML**, **CSS**, and **JavaScript** that fetches data from an API to display temperature, humidity, wind speed, and weather conditions for selected cities.
 
 ---
