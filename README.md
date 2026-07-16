@@ -47,7 +47,7 @@ Built a responsive personal portfolio using HTML, CSS and JavaScript to showcase
 ### ☁️ Atmos Weather App
 A production-grade weather application with real-time data, dark mode, geolocation, and 100% test coverage.
 
-- **🔗 Live Demo:** [View on Vercel](https://weather-app-pro.vercel.app)
+- **🔗 Live Demo:** [View on Vercel](https://atmos-weather-application.vercel.app/)
 - **💻 Source Code:** [View on GitHub](https://github.com/sarfarazalamgit/weather-app-pro)
 - **🛠️ Tech:** React, TypeScript, Tailwind CSS, Vitest, Vercel
 
