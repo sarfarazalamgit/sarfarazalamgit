@@ -33,16 +33,15 @@ My recent work focuses on **React**, **TypeScript**, and **Tailwind CSS**, with 
 
 ## 🚀 Featured Projects
 
-###  Portfolio Website
+###  💻 Portfolio Website
 Built a responsive personal portfolio using HTML, CSS and JavaScript to showcase projects and skills with smooth animations.
 
-- **🔗 Live Demo:** [View](https://sarfarazalamgit.github.io/portfolio/)
+- **🔗 Live Demo:** [View Portfolio](https://sarfarazalamgit.github.io/portfolio/)
 - **💻 Source Code:** [View on GitHub](https://github.com/sarfarazalamgit/portfolio)
 - **🛠️ Tech:** HTML, CSS and JavaScript
 
 > **Key Achievement:** Implemented unit testing with Vitest and automated deployment via CI/CD.
 
----
 
 ### ☁️ Atmos Weather App
 A production-grade weather application with real-time data, dark mode, geolocation, and 100% test coverage.
