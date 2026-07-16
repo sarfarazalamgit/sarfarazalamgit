@@ -30,9 +30,28 @@ My recent work focuses on **React**, **TypeScript**, and **Tailwind CSS**, with 
 
 ---
 
-## 📂 Projects & Repositories
-- [Portfolio Website](https://sarfarazalamgit.github.io/portfolio/) – Built a responsive personal portfolio using HTML, CSS and JavaScript to showcase projects and skills with smooth animations.
-- [Weather App Pro](https://github.com/sarfarazalamgit/weather-app-pro) – Professional Weather App built with React, TypeScript, and Tailwind CSS.
+
+## 🚀 Featured Projects
+
+###  Portfolio Website
+Built a responsive personal portfolio using HTML, CSS and JavaScript to showcase projects and skills with smooth animations.
+
+- **🔗 Live Demo:** [View](https://sarfarazalamgit.github.io/portfolio/)
+- **💻 Source Code:** [View on GitHub](https://github.com/sarfarazalamgit/weather-app-pro)
+- **🛠️ Tech:** HTML, CSS and JavaScript
+
+> **Key Achievement:** Implemented unit testing with Vitest and automated deployment via CI/CD.
+
+---
+
+### ☁️ Atmos Weather App
+A production-grade weather application with real-time data, dark mode, geolocation, and 100% test coverage.
+
+- **🔗 Live Demo:** [View on Vercel](https://weather-app-pro.vercel.app)
+- **💻 Source Code:** [View on GitHub](https://github.com/sarfarazalamgit/weather-app-pro)
+- **🛠️ Tech:** React, TypeScript, Tailwind CSS, Vitest, Vercel
+
+> **Key Achievement:** Implemented unit testing with Vitest and automated deployment via CI/CD.
 
 ---
 
