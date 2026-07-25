@@ -36,7 +36,7 @@ My recent work focuses on **React**, **TypeScript**, and **Tailwind CSS**, with 
 ###  💻 Portfolio Website
 Built a responsive personal portfolio using HTML, CSS and JavaScript to showcase projects and skills with smooth animations.
 
-- **🔗 Live Demo:** [View Portfolio](https://sarfarazalamgit.github.io/portfolio/)
+- **🔗 Live Demo:** [View Portfolio](https://sarfarazalamgit.github.io/portfolio-website/)
 - **💻 Source Code:** [View on GitHub](https://github.com/sarfarazalamgit/portfolio)
 - **🛠️ Tech:** HTML, CSS and JavaScript
 
