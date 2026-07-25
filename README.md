@@ -50,6 +50,17 @@ A production-grade weather application with real-time data, dark mode, geolocati
 
 > **Key Achievement:** Implemented unit testing with Vitest and automated deployment via CI/CD.
 
+
+###  Collab Board
+A full-stack, real-time Kanban board application built with **Next.js 15**, **TypeScript**, **Supabase**, and **Zustand**.
+
+- **🔗 Live Demo:** [View on Vercel](https://collab-board-murex-phi.vercel.app/)
+- **💻 Source Code:** [View on GitHub](https://github.com/sarfarazalamgit/collab-board)
+- **🛠️ Tech:** Next.js 15, TypeScript, Tailwind CSS, Supabase, Zustand, Vercel
+
+> **Key Achievement:** Built a real-time collaborative Kanban board with instant multi-user sync via Supabase Realtime and optimistic UI updates using Zustand.
+
+
 ---
 
 ## 📫 Connect With Me
