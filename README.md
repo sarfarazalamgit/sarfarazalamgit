@@ -51,7 +51,7 @@ A production-grade weather application with real-time data, dark mode, geolocati
 > **Key Achievement:** Implemented unit testing with Vitest and automated deployment via CI/CD.
 
 
-###  Collab Board
+### 🤝 Collab Board
 A full-stack, real-time Kanban board application built with **Next.js 15**, **TypeScript**, **Supabase**, and **Zustand**.
 
 - **🔗 Live Demo:** [View on Vercel](https://collab-board-murex-phi.vercel.app/)
