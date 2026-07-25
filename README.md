@@ -65,4 +65,4 @@ A full-stack, real-time Kanban board application built with **Next.js 15**, **Ty
 
 ## 📫 Connect With Me
 - Email: sarfarazalam@tutamail.com  
-- Portfolio: [sarfarazalamgit.github.io](https://sarfarazalamgit.github.io/portfolio/)
+- Portfolio: [portfolio-website](https://sarfarazalamgit.github.io/portfolio-website/)
