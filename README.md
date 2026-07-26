@@ -14,7 +14,7 @@ My recent work focuses on **React**, **TypeScript**, and **Tailwind CSS**, with 
 ### 🎯 Let's Connect
 - 💬 Ask me about: **React Patterns**, **TypeScript Best Practices**, **Tailwind CSS**, or **Unit Testing Strategies**.
 - 🛠️ **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Vitest, Vercel, OpenWeatherMap API.
-- ⚡ **Fun Fact:** I once spent 3 hours debugging a TypeScript error only to realize I missed a semicolon (and learned to love strict mode!).
+- ⚡ **Fun Fact:** I leverage AI to streamline my workflow and minimize time spent on minor bugs.
 
 ---
 *Built with ❤️ and `npm run dev`*
