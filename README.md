@@ -1,68 +1,132 @@
-# Hi there 👋, I’m MD SARFARAZ ALAM
+<h1 align="center">👋 Hey there! I'm MD SARFARAZ ALAM</h1>
+
+<h3 align="center">
+  🐍 Python Developer
+  <br/>
+  <samp>FastAPI Enthusiast • Backend Development • Tech Explorer</samp>
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=28FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+%F0%9F%90%8D;Building+Projects+and+Learning+Every+Day!;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+</p>
 
 ## 🌟 About Me
 
-I'm a **Frontend Developer** passionate about building **scalable**, **accessible**, and **high-performance** web applications. I specialize in the modern JavaScript ecosystem, turning complex requirements into clean, maintainable code.
+I'm a passionate Python Developer who enjoys exploring the world of programming and building practical applications.
 
-My recent work focuses on **React**, **TypeScript**, and **Tailwind CSS**, with a strong emphasis on **code quality** and **user experience**. I believe in writing software that is not only functional but also reliable, testable, and easy to deploy.
+As a fresher, I'm focused on strengthening my programming fundamentals, learning modern backend technologies, and gaining hands-on experience through personal projects.
 
-### 🚀 What I'm Building & Learning
-- **Built & Deployed:** A full-featured **Weather App** with **TypeScript**, **Vitest**, and **CI/CD** pipelines.
-- **Deep Dive:** Currently mastering **React Architecture**, **Advanced State Management**, and **Web Accessibility (a11y)**.
-- **Focus:** Writing **100% test coverage** units, optimizing bundle sizes, and creating responsive, dark-mode-ready UIs.
+- 🐍 Passionate about Python and backend development.
+- 🚀 Exploring FastAPI to build modern REST APIs.
+- 🌱 Currently improving my skills in Python, SQL, and backend technologies.
+- 💻 Learning by building real-world projects.
+- 🧠 Interested in problem-solving and writing clean, maintainable code.
+- 🎯 Looking forward to starting my professional journey as a Python Developer.
 
-### 🎯 Let's Connect
-- 💬 Ask me about: **React Patterns**, **TypeScript Best Practices**, **Tailwind CSS**, or **Unit Testing Strategies**.
-- 🛠️ **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Vitest, Vercel, OpenWeatherMap API.
-- ⚡ **Fun Fact:** I leverage AI to streamline my workflow and minimize time spent on minor bugs.
+## 🧰 Tech Stack & Tools
 
----
-*Built with ❤️ and `npm run dev`*
+💻 Programming Languages
 
-## 🛠 Skills & Tools
-| Frontend Core | Programming & Logic | Styling & UI | Testing & Quality | Tools & DevOps |
-| :--- | :--- | :--- | :--- | :--- |
-| **React.js** | **TypeScript** | **Tailwind CSS** | **Vitest** | **Git & GitHub** |
-| **HTML5** | **JavaScript (ES6+)** | **CSS3** | **React Testing Library** | **VS Code** |
-| **React Hooks** | **Async/Await** | **Responsive Design** | **Unit Testing** | **Vercel** |
-| **State Management** | **API Integration** | **Dark Mode UI** | **Error Handling** | **CI/CD** |             
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+</p>
 
+⚙️ Frameworks & Libraries
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
+</p>
 
+🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
+</p>
+
+🛠️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50" alt="Git, GitHub, VS Code and Postman" />
+</p>
+📚 Currently Exploring
+
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend%20Development-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL%20Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ## 🚀 Featured Projects
 
-###  💻 Portfolio Website
-Built a responsive personal portfolio using HTML, CSS and JavaScript to showcase projects and skills with smooth animations.
+Here are some projects that reflect my learning journey and practical coding experience.
 
-- **🔗 Live Demo:** [View Portfolio](https://sarfarazalamgit.github.io/portfolio-website/)
-- **💻 Source Code:** [View on GitHub](https://github.com/sarfarazalamgit/portfolio)
-- **🛠️ Tech:** HTML, CSS and JavaScript
+A selection of projects showcasing my Python development skills, backend knowledge, and continuous learning.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>⚡ Event Booking System</h3>
+<p>
+A role-based event booking REST API built with Python 3.14, FastAPI, uv, PostgreSQL, Redis, ARQ, Docker, and Resend.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=flat&logo=redis&logoColor=DC382D" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/uv-0D1117?style=flat&logo=uv&logoColor=DE5FE9" />
+<img src="https://img.shields.io/badge/Resend-0D1117?style=flat&logo=resend&logoColor=FFFFFF" />
+</p>
+<a href="https://github.com/sarfarazalamgit/event-booking-system">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-005BFF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+</td>
 
-### ☁️ Atmos Weather App
-A production-grade weather application with real-time data, dark mode, geolocation, and 100% test coverage.
+</tr>
+</table>
 
-- **🔗 Live Demo:** [View on Vercel](https://atmos-weather-application.vercel.app/)
-- **💻 Source Code:** [View on GitHub](https://github.com/sarfarazalamgit/weather-app-pro)
-- **🛠️ Tech:** React, TypeScript, Tailwind CSS, Vitest, Vercel
+💡 What I'm Focused On
+python
+class Developer:
 
-> **Key Achievement:** Implemented unit testing with Vitest and automated deployment via CI/CD.
+    def __init__(self):
+        self.role = "Python Developer"
+        self.focus = ["Backend Development", "REST APIs"]
+        self.learning = ["FastAPI", "SQL", "System Design"]
+        self.mindset = "Always Learning"
 
+    def build(self):
+        return "Turning ideas into reality."
 
-### 🤝 Collab Board
-A full-stack, real-time Kanban board application built with **Next.js 15**, **TypeScript**, **Supabase**, and **Zustand**.
+🤝 Let's Connect!
 
-- **🔗 Live Demo:** [View on Vercel](https://collab-board-murex-phi.vercel.app/)
-- **💻 Source Code:** [View on GitHub](https://github.com/sarfarazalamgit/collab-board)
-- **🛠️ Tech:** Next.js 15, TypeScript, Tailwind CSS, Supabase, Zustand, Vercel
+I'm always interested in connecting with developers, learning from others, sharing ideas, and exploring opportunities to grow as a Python Developer.
 
-> **Key Achievement:** Built a real-time collaborative Kanban board with instant multi-user sync via Supabase Realtime and optimistic UI updates using Zustand.
+<p align="center">
+<a href="https://github.com/sarfarazalamgit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/md-sarfaraz-alam-530592432/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:sarfarazalam@tutamail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</p>
 
----
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
 
-## 📫 Connect With Me
-- Email: sarfarazalam@tutamail.com  
-- Portfolio: [portfolio-website](https://sarfarazalamgit.github.io/portfolio-website/)
+<p align="center">
+<samp>Keep Learning • Keep Building • Keep Growing 🚀</samp>
+</p>
