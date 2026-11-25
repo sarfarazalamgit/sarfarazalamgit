@@ -121,7 +121,7 @@ I'm always interested in connecting with developers, learning from others, shari
 
 <!-- Portfolio Website -->
 <p align="center">
-<a href="https://yourportfolio.com" target="_blank">
+<a href="https://sarfarazalamgit.github.io/portfolio-website/" target="_blank">
 <img src="https://img.shields.io/badge/%20VISIT%20MY%20PORTFOLIO-F04615?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </p>
