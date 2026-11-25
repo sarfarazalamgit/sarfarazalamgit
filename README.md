@@ -82,7 +82,7 @@ A role-based event booking REST API built with Python 3.14, FastAPI, uv, Postgre
 <img src="https://img.shields.io/badge/uv-0D1117?style=flat&logo=uv&logoColor=DE5FE9" />
 <img src="https://img.shields.io/badge/Resend-0D1117?style=flat&logo=resend&logoColor=FFFFFF" />
 </p>
-<a href="https://github.com/sarfarazalamgit/event-booking-system">
+<a href="https://github.com/sarfarazalamgit/event-booking-system" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-005BFF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 </td>
@@ -108,10 +108,10 @@ class Developer:
 I'm always interested in connecting with developers, learning from others, sharing ideas, and exploring opportunities to grow as a Python Developer.
 
 <p align="center">
-<a href="https://github.com/sarfarazalamgit">
+<a href="https://github.com/sarfarazalamgit" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/md-sarfaraz-alam-530592432/">
+<a href="https://www.linkedin.com/in/md-sarfaraz-alam-530592432/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:sarfarazalam@tutamail.com">
@@ -121,7 +121,7 @@ I'm always interested in connecting with developers, learning from others, shari
 
 <!-- Portfolio Website -->
 <p align="center">
-<a href="https://sarfarazalamgit.github.io/portfolio-website/" target="_blank">
+<a href="https://sarfarazalamgit.github.io/portfolio-website/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/%20VISIT%20MY%20PORTFOLIO-F04615?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </p>
